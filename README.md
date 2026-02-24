@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hola, soy Pablo Sumba
+
+Estudiante de Computación - Universidad de Cuenca
+
+## 📫 Contacto
+- GitHub: https://github.com/PabloSumbaU
+- Correo: pablosumba5@gmail.com
 
 <!--
 **PabloSumbaU/PabloSumbaU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
